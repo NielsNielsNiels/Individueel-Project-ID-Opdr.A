@@ -6,7 +6,7 @@ Dit is de opdracht A voor Individueel Project ID.
 ### DATA
 Er zijn blokjes te zien in verschillende kleuren. De kleur van elk blokje staat voor een aantal procenten. De procenten zijn het aantal procenten mensen van dat specifieke land die illegaal downloaden of legaal streamen. In de legenada kan afgelezen worden voor het aantal procenten. In de visualisatie vind je de landen die tegenover jaren staan. 
 
-* Op de y-as staat het aantal mensen in miljoenen.
+* Op de y-as staat het jaartal waarin gemeten is.
 * Op de x-as staan de landen in kwestie.
 
 ### FEATURES
