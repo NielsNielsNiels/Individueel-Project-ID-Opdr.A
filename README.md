@@ -1,5 +1,7 @@
 # Individueel Project ID
 
+
+### OPDRACHT A
 ### URL SITE
 https://nielsnelisniels.github.io
 
@@ -49,3 +51,16 @@ https://bl.ocks.org/mourner/4946049 var color = d3.scale.linear()
 * [d3.axisBottom()](https://github.com/d3/d3-axis#axisBottom)
 * [d3.axisLeft()](https://github.com/d3/d3-axis#axisLeft)
 
+-----------------------------------------------------------------
+
+### OPDRACHT B
+### URL SITE PROTOTYPE
+Voor de Online Versie:
+https://marvelapp.com/45eg9i9/screen/34776919
+
+Voor de Orginele versie in Principle (betere kwaliteit):
+https://marvelapp.com/45eg9i9/screen/34776919
+
+
+### DOCUMENTATIE EN SCREENS
+https://drive.google.com/drive/folders/1e4EqCRTv2QtMxMQ_e5cdGpUkR4pVC82O
