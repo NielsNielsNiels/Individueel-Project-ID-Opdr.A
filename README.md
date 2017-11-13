@@ -30,8 +30,11 @@ Bron 2: http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&p
 
 ### CODE SOURCES
 Bron 1, labels, code onderaan: http://bl.ocks.org/phoebebright/3061203
+
 Bron 2, vanaf kopje “continues scales“: https://github.com/d3/d3-scale
+
 Bron 3, inspiratie Heatmap: http://bl.ocks.org/tjdecke/5558084
+
 Bron 4, colorScale:
 https://bl.ocks.org/mourner/4946049 var color = d3.scale.linear()
 .domain([90, 60, 30, 0])
