@@ -55,11 +55,11 @@ https://bl.ocks.org/mourner/4946049 var color = d3.scale.linear()
 
 ### OPDRACHT B
 ### URL SITE PROTOTYPE
-Voor de Online Versie:
+Voor de Online Versie. Omdat je bij marvel altijd bovenaan de afbeelding begint, moet je voor elke handeling die je maakt naar beneden scrollen:
 https://marvelapp.com/45eg9i9/screen/34776919
 
-Voor de Orginele versie in Principle (betere kwaliteit):
-https://marvelapp.com/45eg9i9/screen/34776919
+Voor de Orginele versie in Principle (betere kwaliteit). Deze moet wel gedownload worden op computer. Werkt alleen op mac:
+https://drive.google.com/drive/folders/1ohJphlq1m9l5BH2huNNkVgmQBXkXdHyZ?usp=sharing
 
 
 ### DOCUMENTATIE EN SCREENS
